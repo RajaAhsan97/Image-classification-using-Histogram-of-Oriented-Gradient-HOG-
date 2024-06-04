@@ -33,3 +33,17 @@ The basic methodolgy expressed as:
         Thus total features in the images are ---> Total cells x HoG vector in the cell = 49 x 36 = 1764 features (for the given image)
     ""  
 6. the feature descriptors of the images are then used train the model to classify the images based on the features. For model training i have used the linear support vector machine (SVM)
+   The model shows 81% accuracy
+
+   Sample HOG images, where left-sided image show the transformed gray level image, the center image is the contrasted image and the right sided image is the HOG of the contrasted image
+   i.
+   ![image](https://github.com/RajaAhsan97/Image-classification-using-Histogram-of-Oriented-Gradient-HOG-/assets/155144523/8c24d40c-e361-412f-a3f1-88e13fb91537)
+
+   ii. ![image](https://github.com/RajaAhsan97/Image-classification-using-Histogram-of-Oriented-Gradient-HOG-/assets/155144523/c898203c-fd9a-45e2-853b-48f5efb63ef6)
+
+   iii. ![image](https://github.com/RajaAhsan97/Image-classification-using-Histogram-of-Oriented-Gradient-HOG-/assets/155144523/7951bf4a-e006-4185-90ec-36ba01ee9417)
+
+   iv. ![image](https://github.com/RajaAhsan97/Image-classification-using-Histogram-of-Oriented-Gradient-HOG-/assets/155144523/31def200-ef8a-4783-be64-b0ab871aaec4)
+
+
+
