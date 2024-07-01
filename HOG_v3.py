@@ -1,10 +1,3 @@
-"""
-    COMMENT:
-    need further improvement for adjustment of image sharpening to optimum level,
-    which is then used by Sobel kernel compute the gradient mangnitude and angle.
-
-    see it tommorow
-"""
 
 """
     Description of HOG feature vectors
